@@ -10,7 +10,7 @@ Desarrollador de software en Medellín, Colombia. Construyo, migro y automatizo 
 
 ### Proyecto destacado
 
-**[prueba-tecnica-odoo-19](https://github.com/fjrendona/prueba-tecnica-odoo-19)**: módulo para Odoo 19 que importa ventas desde Excel con validación "todo o nada", detecta archivos duplicados por huella SHA-256, las analiza en un tablero y actualiza la lista en tiempo real con el bus de Odoo. 57 tests en Python y 12 en JavaScript, entorno reproducible con Docker.
+**[odoo19-sales-import-analytics](https://github.com/fjrendona/odoo19-sales-import-analytics)**: módulo para Odoo 19 que importa ventas desde Excel con validación "todo o nada", detecta archivos duplicados por huella SHA-256, las analiza en un tablero y actualiza la lista en tiempo real con el bus de Odoo. 57 tests en Python y 12 en JavaScript, entorno reproducible con Docker.
 
 > La mayor parte de mi trabajo profesional vive en repositorios privados de las empresas donde he trabajado.
 
